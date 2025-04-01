@@ -11,6 +11,7 @@ function App() {
       <div>
       <h2>Hello..!,Welcome to my page</h2>
       <h2>This is Sharini S</h2>
+      <p>This is deploy demo using netlify........</p>
       </div>
     </>
   )
